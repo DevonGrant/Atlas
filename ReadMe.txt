@@ -1,0 +1,1 @@
+Game is located at: Atlas\Build\Atlas_v1.3.exe
